@@ -75,7 +75,7 @@ Score = (similar users preference) / (all users preference)
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/nawr1/movie_recs.git
 cd movie-recommender
 pip install pandas numpy scikit-learn ipywidgets
 ```
@@ -122,17 +122,5 @@ Output:
 * Interactive interface using ipywidgets
 
 ---
-
-## Author
-
-Nour Tadili
-AI and Data Science Student – ENSAM Casablanca
-
----
-
-## Future Improvements
-
-* Add deep learning models
-* Improve recommendation ranking
 * Build a web interface (React and Django)
 * Use movie descriptions instead of only titles
